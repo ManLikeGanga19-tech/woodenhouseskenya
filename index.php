@@ -1,380 +1,415 @@
 <?php include('header.php'); ?>
 <!-- Carousel Start -->
 <div class="container-fluid p-0 pb-5">
-        <div class="owl-carousel header-carousel position-relative">
-            <div class="owl-carousel-item position-relative">
-                <img class="img-fluid" src="img/carousel-1.jpg" alt="">
-                <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" style="background: rgba(53, 53, 53, .7);">
-                    <div class="container">
-                        <div class="row justify-content-center">
-                            <div class="col-12 col-lg-8 text-center">
-                                <h5 class="text-white text-uppercase mb-3 animated slideInDown">Wooden Houses Kenya</h5>
-                                <h1 class="display-3 text-white animated slideInDown mb-4">Full-service construction, from foundations to inspection</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-2">Only builder of prefab houses with a general contracting license.</p>
-                                <a href="about.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
-                                <!--<a href="" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Free Quote</a>-->
-                            </div>
+    <div class="owl-carousel header-carousel position-relative">
+        <div class="owl-carousel-item position-relative">
+            <img class="img-fluid" src="img/carousel-1.jpg" alt="">
+            <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center"
+                style="background: rgba(53, 53, 53, .7);">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-12 col-lg-8 text-center">
+                            <h5 class="text-white text-uppercase mb-3 animated slideInDown">Wooden Houses Kenya</h5>
+                            <h1 class="display-3 text-white animated slideInDown mb-4">Full-service construction, from
+                                foundations to inspection</h1>
+                            <p class="fs-5 fw-medium text-white mb-4 pb-2">Only builder of prefab houses with a general
+                                contracting license.</p>
+                            <a href="about.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Read
+                                More</a>
+                            <!--<a href="" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Free Quote</a>-->
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="owl-carousel-item position-relative">
-                <img class="img-fluid" src="img/img1.jpg" alt="">
-                <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" style="background: rgba(53, 53, 53, .7);">
-                    <div class="container">
-                        <div class="row justify-content-center">
-                            <div class="col-12 col-lg-8 text-center">
-                                <h5 class="text-white text-uppercase mb-3 animated slideInDown">Wooden Houses Kenya</h5>
-                                <h1 class="display-3 text-white animated slideInDown mb-4">State-of-the-art design center</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-2">Interior designs for all tastes and budgets</p>
-                                <a href="about.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
-                                <!--<a href="" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Free Quote</a>-->
-                            </div>
+        </div>
+        <div class="owl-carousel-item position-relative">
+            <img class="img-fluid" src="img/img1.jpg" alt="">
+            <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center"
+                style="background: rgba(53, 53, 53, .7);">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-12 col-lg-8 text-center">
+                            <h5 class="text-white text-uppercase mb-3 animated slideInDown">Wooden Houses Kenya</h5>
+                            <h1 class="display-3 text-white animated slideInDown mb-4">State-of-the-art design center
+                            </h1>
+                            <p class="fs-5 fw-medium text-white mb-4 pb-2">Interior designs for all tastes and budgets
+                            </p>
+                            <a href="about.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Read
+                                More</a>
+                            <!--<a href="" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Free Quote</a>-->
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="owl-carousel-item position-relative">
-                <img class="img-fluid" src="img/img4.jpg" alt="">
-                <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" style="background: rgba(53, 53, 53, .7);">
-                    <div class="container">
-                        <div class="row justify-content-center">
-                            <div class="col-12 col-lg-8 text-center">
-                                <h5 class="text-white text-uppercase mb-3 animated slideInDown">Wooden Houses Kenya</h5>
-                                <h1 class="display-3 text-white animated slideInDown mb-4">Above-standard energy efficiency</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-2">Energy efficiency that surpasses building code requirements</p>
-                                <a href="about.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
-                                <!--<a href="" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Free Quote</a>-->
-                            </div>
+        </div>
+        <div class="owl-carousel-item position-relative">
+            <img class="img-fluid" src="img/img4.jpg" alt="">
+            <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center"
+                style="background: rgba(53, 53, 53, .7);">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-12 col-lg-8 text-center">
+                            <h5 class="text-white text-uppercase mb-3 animated slideInDown">Wooden Houses Kenya</h5>
+                            <h1 class="display-3 text-white animated slideInDown mb-4">Above-standard energy efficiency
+                            </h1>
+                            <p class="fs-5 fw-medium text-white mb-4 pb-2">Energy efficiency that surpasses building
+                                code requirements</p>
+                            <a href="about.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Read
+                                More</a>
+                            <!--<a href="" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Free Quote</a>-->
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- Carousel End -->
+</div>
+<!-- Carousel End -->
 
 
-    <!-- Feature Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="row g-5">
-                <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.1s">
-                    <div class="d-flex align-items-center justify-content-between mb-2">
-                        <div class="d-flex align-items-center justify-content-center bg-light" style="width: 60px; height: 60px;">
-                            <i class="fa fa-user-check fa-2x text-primary"></i>
-                        </div>
-                        <h1 class="display-1 text-light mb-0">01</h1>
+<!-- Feature Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="row g-5">
+            <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.1s">
+                <div class="d-flex align-items-center justify-content-between mb-2">
+                    <div class="d-flex align-items-center justify-content-center bg-light"
+                        style="width: 60px; height: 60px;">
+                        <i class="fa fa-user-check fa-2x text-primary"></i>
                     </div>
-                    <h5>Creative Designers</h5>
+                    <h1 class="display-1 text-light mb-0">01</h1>
                 </div>
-                <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.3s">
-                    <div class="d-flex align-items-center justify-content-between mb-2">
-                        <div class="d-flex align-items-center justify-content-center bg-light" style="width: 60px; height: 60px;">
-                            <i class="fa fa-check fa-2x text-primary"></i>
-                        </div>
-                        <h1 class="display-1 text-light mb-0">02</h1>
+                <h5>Creative Designers</h5>
+            </div>
+            <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.3s">
+                <div class="d-flex align-items-center justify-content-between mb-2">
+                    <div class="d-flex align-items-center justify-content-center bg-light"
+                        style="width: 60px; height: 60px;">
+                        <i class="fa fa-check fa-2x text-primary"></i>
                     </div>
-                    <h5>Quality Products</h5>
+                    <h1 class="display-1 text-light mb-0">02</h1>
                 </div>
-                <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.5s">
-                    <div class="d-flex align-items-center justify-content-between mb-2">
-                        <div class="d-flex align-items-center justify-content-center bg-light" style="width: 60px; height: 60px;">
-                            <i class="fa fa-drafting-compass fa-2x text-primary"></i>
-                        </div>
-                        <h1 class="display-1 text-light mb-0">03</h1>
+                <h5>Quality Products</h5>
+            </div>
+            <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.5s">
+                <div class="d-flex align-items-center justify-content-between mb-2">
+                    <div class="d-flex align-items-center justify-content-center bg-light"
+                        style="width: 60px; height: 60px;">
+                        <i class="fa fa-drafting-compass fa-2x text-primary"></i>
                     </div>
-                    <h5>Free Consultation</h5>
+                    <h1 class="display-1 text-light mb-0">03</h1>
                 </div>
-                <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.7s">
-                    <div class="d-flex align-items-center justify-content-between mb-2">
-                        <div class="d-flex align-items-center justify-content-center bg-light" style="width: 60px; height: 60px;">
-                            <i class="fa fa-headphones fa-2x text-primary"></i>
-                        </div>
-                        <h1 class="display-1 text-light mb-0">04</h1>
+                <h5>Free Consultation</h5>
+            </div>
+            <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.7s">
+                <div class="d-flex align-items-center justify-content-between mb-2">
+                    <div class="d-flex align-items-center justify-content-center bg-light"
+                        style="width: 60px; height: 60px;">
+                        <i class="fa fa-headphones fa-2x text-primary"></i>
                     </div>
-                    <h5>Customer Support</h5>
+                    <h1 class="display-1 text-light mb-0">04</h1>
                 </div>
+                <h5>Customer Support</h5>
             </div>
         </div>
     </div>
-    <!-- Feature Start -->
+</div>
+<!-- Feature Start -->
 
 
 
-    <!-- About Start -->
-    <div class="container-fluid bg-light overflow-hidden my-5 px-lg-0">
-        <div class="container about px-lg-0">
-            <div class="row g-0 mx-lg-0">
-                <div class="col-lg-6 ps-lg-0" style="min-height: 400px;">
-                    <div class="position-relative h-100">
-                        <img class="position-absolute img-fluid w-100 h-100" src="img/img9.jpg" style="object-fit: cover;" alt="">
-                    </div>
+<!-- About Start -->
+<div class="container-fluid bg-light overflow-hidden my-5 px-lg-0">
+    <div class="container about px-lg-0">
+        <div class="row g-0 mx-lg-0">
+            <div class="col-lg-6 ps-lg-0" style="min-height: 400px;">
+                <div class="position-relative h-100">
+                    <img class="position-absolute img-fluid w-100 h-100" src="img/img9.jpg" style="object-fit: cover;"
+                        alt="">
                 </div>
-                <div class="col-lg-6 about-text py-5 wow fadeIn" data-wow-delay="0.5s">
-                    <div class="p-lg-5 pe-lg-0">
-                        <div class="section-title text-start">
-                            <h1 class="display-5 mb-4">About Us</h1>
-                        </div>
-                        <p class="mb-4 pb-2">Wooden Houses Kenya has since 2016 grown and developed into one of the largest provider of specialized wood products within Kenya and boasts of extensive experience in supplying substantial buildings such as residential houses, offices, recreational rooms and classrooms, and has participated in numerous large-scale engineering projects throughout Kenya.</p>
-                        <div class="row g-4 mb-4 pb-2">
-                            <div class="col-sm-6 wow fadeIn" data-wow-delay="0.1s">
-                                <div class="d-flex align-items-center">
-                                    <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white" style="width: 60px; height: 60px;">
-                                        <i class="fa fa-users fa-2x text-primary"></i>
-                                    </div>
-                                    <div class="ms-3">
-                                        <h2 class="text-primary mb-1" data-toggle="counter-up">56</h2>
-                                        <p class="fw-medium mb-0">Happy Clients</p>
-                                    </div>
+            </div>
+            <div class="col-lg-6 about-text py-5 wow fadeIn" data-wow-delay="0.5s">
+                <div class="p-lg-5 pe-lg-0">
+                    <div class="section-title text-start">
+                        <h1 class="display-5 mb-4">About Us</h1>
+                    </div>
+                    <p class="mb-4 pb-2">Wooden Houses Kenya has since 2016 grown and developed into one of the largest
+                        provider of specialized wood products within Kenya and boasts of extensive experience in
+                        supplying substantial buildings such as residential houses, offices, recreational rooms and
+                        classrooms, and has participated in numerous large-scale engineering projects throughout Kenya.
+                    </p>
+                    <div class="row g-4 mb-4 pb-2">
+                        <div class="col-sm-6 wow fadeIn" data-wow-delay="0.1s">
+                            <div class="d-flex align-items-center">
+                                <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white"
+                                    style="width: 60px; height: 60px;">
+                                    <i class="fa fa-users fa-2x text-primary"></i>
+                                </div>
+                                <div class="ms-3">
+                                    <h2 class="text-primary mb-1" data-toggle="counter-up">56</h2>
+                                    <p class="fw-medium mb-0">Happy Clients</p>
                                 </div>
                             </div>
-                            <div class="col-sm-6 wow fadeIn" data-wow-delay="0.3s">
-                                <div class="d-flex align-items-center">
-                                    <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white" style="width: 60px; height: 60px;">
-                                        <i class="fa fa-check fa-2x text-primary"></i>
-                                    </div>
-                                    <div class="ms-3">
-                                        <h2 class="text-primary mb-1" data-toggle="counter-up">37</h2>
-                                        <p class="fw-medium mb-0">Projects Done</p>
-                                    </div>
+                        </div>
+                        <div class="col-sm-6 wow fadeIn" data-wow-delay="0.3s">
+                            <div class="d-flex align-items-center">
+                                <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white"
+                                    style="width: 60px; height: 60px;">
+                                    <i class="fa fa-check fa-2x text-primary"></i>
+                                </div>
+                                <div class="ms-3">
+                                    <h2 class="text-primary mb-1" data-toggle="counter-up">37</h2>
+                                    <p class="fw-medium mb-0">Projects Done</p>
                                 </div>
                             </div>
                         </div>
-                        <a href="about.php" class="btn btn-primary py-3 px-5">Explore More</a>
                     </div>
+                    <a href="about.php" class="btn btn-primary py-3 px-5">Explore More</a>
                 </div>
             </div>
         </div>
     </div>
-    <!-- About End -->
+</div>
+<!-- About End -->
 
 
-    <!-- Service Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="section-title text-center">
-                <h1 class="display-5 mb-5">Our Services</h1>
-            </div>
-            <div class="row g-4">
+<!-- Service Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="section-title text-center">
+            <h1 class="display-5 mb-5">Our Services</h1>
+        </div>
+        <div class="row g-4">
             <div class="col-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="service-item">
-                        <div class="overflow-hidden">
-                            <img class="img-fluid" src="img/img2.jpg" alt="">
-                        </div>
-                        <div class="p-4 text-center border border-5 border-light border-top-0">
-                            <h4 class="mb-3">Wooden Houses Construction</h4>
-                            <p>At Wooden Houses Kenya, we specialize in crafting high-quality, sustainable wooden houses that...</p>
-                            <a class="fw-medium" href="services.php">Read More<i class="fa fa-arrow-right ms-2"></i></a>
-                        </div>
+                <div class="service-item">
+                    <div class="overflow-hidden">
+                        <img class="img-fluid" src="img/img2.jpg" alt="">
                     </div>
-                </div> 
-                <div class="col-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="service-item">
-                        <div class="overflow-hidden">
-                            <img class="img-fluid" src="img/img10.jpg" alt="">
-                        </div>
-                        <div class="p-4 text-center border border-5 border-light border-top-0">
-                            <h4 class="mb-3">General Carpentry</h4>
-                            <p>We provide top-quality carpentry services, specializing in custom woodwork that...</p>
-                            <a class="fw-medium" href="services.php">Read More<i class="fa fa-arrow-right ms-2"></i></a>
-                        </div>
-                    </div>
-                </div>   
-            </div>
-        </div>
-    </div>
-    <!-- Service End -->
-
-
-    <!-- Feature Start -->
-    <div class="container-fluid bg-light overflow-hidden my-5 px-lg-0">
-        <div class="container feature px-lg-0">
-            <div class="row g-0 mx-lg-0">
-                <div class="col-lg-6 feature-text py-5 wow fadeIn" data-wow-delay="0.5s">
-                    <div class="p-lg-5 ps-lg-0">
-                        <div class="section-title text-start">
-                            <h1 class="display-5 mb-4">Why Choose Us</h1>
-                        </div>
-                        <ul style="list-style: none;">
-                            <li><i class="fa fa-check-circle text-primary me-3"></i>Superior Quality</li>
-                            <li><i class="fa fa-check-circle text-primary me-3"></i>A green Aproach</li>
-                            <li><i class="fa fa-check-circle text-primary me-3"></i>On-time and on-budget delivery</li>
-                            <li><i class="fa fa-check-circle text-primary me-3"></i>Personalized Service</li>
-                            <li><i class="fa fa-check-circle text-primary me-3"></i>Wide selection of models</li>
-                        </ul>
-                        <div class="row g-4">
-                            <div class="col-6">
-                                <div class="d-flex align-items-center">
-                                    <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white" style="width: 60px; height: 60px;">
-                                        <i class="fa fa-check fa-2x text-primary"></i>
-                                    </div>
-                                    <div class="ms-4">
-                                        <p class="mb-2">Quality</p>
-                                        <h5 class="mb-0">Services</h5>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="d-flex align-items-center">
-                                    <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white" style="width: 60px; height: 60px;">
-                                        <i class="fa fa-user-check fa-2x text-primary"></i>
-                                    </div>
-                                    <div class="ms-4">
-                                        <p class="mb-2">Creative</p>
-                                        <h5 class="mb-0">Designers</h5>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="d-flex align-items-center">
-                                    <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white" style="width: 60px; height: 60px;">
-                                        <i class="fa fa-drafting-compass fa-2x text-primary"></i>
-                                    </div>
-                                    <div class="ms-4">
-                                        <p class="mb-2">Free</p>
-                                        <h5 class="mb-0">Consultation</h5>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="d-flex align-items-center">
-                                    <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white" style="width: 60px; height: 60px;">
-                                        <i class="fa fa-headphones fa-2x text-primary"></i>
-                                    </div>
-                                    <div class="ms-4">
-                                        <p class="mb-2">Customer</p>
-                                        <h5 class="mb-0">Support</h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                    <div class="p-4 text-center border border-5 border-light border-top-0">
+                        <h4 class="mb-3">Wooden Houses Construction</h4>
+                        <p>At Wooden Houses Kenya, we specialize in crafting high-quality, sustainable wooden houses
+                            that...</p>
+                        <a class="fw-medium" href="services.php">Read More<i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
-                <div class="col-lg-6 pe-lg-0" style="min-height: 400px;">
-                    <div class="position-relative h-100">
-                        <img class="position-absolute img-fluid w-100 h-100" src="img/img5.jpg" style="object-fit: cover;" alt="">
+            </div>
+            <div class="col-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="service-item">
+                    <div class="overflow-hidden">
+                        <img class="img-fluid" src="img/img10.jpg" alt="">
+                    </div>
+                    <div class="p-4 text-center border border-5 border-light border-top-0">
+                        <h4 class="mb-3">General Carpentry</h4>
+                        <p>We provide top-quality carpentry services, specializing in custom woodwork that...</p>
+                        <a class="fw-medium" href="services.php">Read More<i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- Feature End -->
+</div>
+<!-- Service End -->
 
 
-    <!-- Projects Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="section-title text-center">
-                <h1 class="display-5 mb-5">Our Projects</h1>
-            </div>
-            <div class="row mt-n2 wow fadeInUp" data-wow-delay="0.3s">
-                <div class="col-12 text-center">
-                    <ul class="list-inline mb-5" id="portfolio-flters">
-                        <li class="mx-2 active" data-filter="*">All</li>
-                        <li class="mx-2" data-filter=".first">Wooden Houses Construction</li>
-                        <li class="mx-2" data-filter=".second">General Carpentry</li>
+<!-- Feature Start -->
+<div class="container-fluid bg-light overflow-hidden my-5 px-lg-0">
+    <div class="container feature px-lg-0">
+        <div class="row g-0 mx-lg-0">
+            <div class="col-lg-6 feature-text py-5 wow fadeIn" data-wow-delay="0.5s">
+                <div class="p-lg-5 ps-lg-0">
+                    <div class="section-title text-start">
+                        <h1 class="display-5 mb-4">Why Choose Us</h1>
+                    </div>
+                    <ul style="list-style: none;">
+                        <li><i class="fa fa-check-circle text-primary me-3"></i>Superior Quality</li>
+                        <li><i class="fa fa-check-circle text-primary me-3"></i>A green Aproach</li>
+                        <li><i class="fa fa-check-circle text-primary me-3"></i>On-time and on-budget delivery</li>
+                        <li><i class="fa fa-check-circle text-primary me-3"></i>Personalized Service</li>
+                        <li><i class="fa fa-check-circle text-primary me-3"></i>Wide selection of models</li>
                     </ul>
+                    <div class="row g-4">
+                        <div class="col-6">
+                            <div class="d-flex align-items-center">
+                                <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white"
+                                    style="width: 60px; height: 60px;">
+                                    <i class="fa fa-check fa-2x text-primary"></i>
+                                </div>
+                                <div class="ms-4">
+                                    <p class="mb-2">Quality</p>
+                                    <h5 class="mb-0">Services</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-6">
+                            <div class="d-flex align-items-center">
+                                <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white"
+                                    style="width: 60px; height: 60px;">
+                                    <i class="fa fa-user-check fa-2x text-primary"></i>
+                                </div>
+                                <div class="ms-4">
+                                    <p class="mb-2">Creative</p>
+                                    <h5 class="mb-0">Designers</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-6">
+                            <div class="d-flex align-items-center">
+                                <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white"
+                                    style="width: 60px; height: 60px;">
+                                    <i class="fa fa-drafting-compass fa-2x text-primary"></i>
+                                </div>
+                                <div class="ms-4">
+                                    <p class="mb-2">Free</p>
+                                    <h5 class="mb-0">Consultation</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-6">
+                            <div class="d-flex align-items-center">
+                                <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white"
+                                    style="width: 60px; height: 60px;">
+                                    <i class="fa fa-headphones fa-2x text-primary"></i>
+                                </div>
+                                <div class="ms-4">
+                                    <p class="mb-2">Customer</p>
+                                    <h5 class="mb-0">Support</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="row g-4 portfolio-container">
-                <div class="col-lg-4 col-md-6 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="rounded overflow-hidden">
-                        <div class="position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="img/img8.jpg" alt="">
-                            <div class="portfolio-overlay">
-                                <a class="btn btn-square btn-outline-light mx-1" href="img/img8.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
-                            </div>
-                        </div>
-                        <div class="border border-5 border-light border-top-0 p-4">
-                            <p class="text-primary fw-medium mb-2">Wooden Houses Construction</p>
-                            <h5 class="lh-base mb-0">Off-the-grid cottage in Nanyuki</a>
+            <div class="col-lg-6 pe-lg-0" style="min-height: 400px;">
+                <div class="position-relative h-100">
+                    <img class="position-absolute img-fluid w-100 h-100" src="img/img5.jpg" style="object-fit: cover;"
+                        alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Feature End -->
+
+
+<!-- Projects Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="section-title text-center">
+            <h1 class="display-5 mb-5">Our Projects</h1>
+        </div>
+        <div class="row mt-n2 wow fadeInUp" data-wow-delay="0.3s">
+            <div class="col-12 text-center">
+                <ul class="list-inline mb-5" id="portfolio-flters">
+                    <li class="mx-2 active" data-filter="*">All</li>
+                    <li class="mx-2" data-filter=".first">Wooden Houses Construction</li>
+                    <li class="mx-2" data-filter=".second">General Carpentry</li>
+                </ul>
+            </div>
+        </div>
+        <div class="row g-4 portfolio-container">
+            <div class="col-lg-4 col-md-6 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+                <div class="rounded overflow-hidden">
+                    <div class="position-relative overflow-hidden">
+                        <img class="img-fluid w-100" src="img/img8.jpg" alt="">
+                        <div class="portfolio-overlay">
+                            <a class="btn btn-square btn-outline-light mx-1" href="img/img8.jpg"
+                                data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-4 col-md-6 portfolio-item second wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="rounded overflow-hidden">
-                        <div class="position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="img/img11.jpg" alt="">
-                            <div class="portfolio-overlay">
-                                <a class="btn btn-square btn-outline-light mx-1" href="img/img11.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
-                            </div>
-                        </div>
-                        <div class="border border-5 border-light border-top-0 p-4">
-                            <p class="text-primary fw-medium mb-2">General Carpentry</p>
-                            <h5 class="lh-base mb-0">Kitchen Fittings</a>
-                        </div>
+                    <div class="border border-5 border-light border-top-0 p-4">
+                        <p class="text-primary fw-medium mb-2">Wooden Houses Construction</p>
+                        <h5 class="lh-base mb-0">Off-the-grid cottage in Nanyuki</a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 portfolio-item first wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="rounded overflow-hidden">
-                        <div class="position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="img/img7.jpg" alt="">
-                            <div class="portfolio-overlay">
-                                <a class="btn btn-square btn-outline-light mx-1" href="img/img7.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
-                            </div>
-                        </div>
-                        <div class="border border-5 border-light border-top-0 p-4">
-                            <p class="text-primary fw-medium mb-2">Wooden Houses Construction</p>
-                            <h5 class="lh-base mb-0">Holiday Home, Naivasha</a>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item second wow fadeInUp" data-wow-delay="0.3s">
+                <div class="rounded overflow-hidden">
+                    <div class="position-relative overflow-hidden">
+                        <img class="img-fluid w-100" src="img/img11.jpg" alt="">
+                        <div class="portfolio-overlay">
+                            <a class="btn btn-square btn-outline-light mx-1" href="img/img11.jpg"
+                                data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-4 col-md-6 portfolio-item second wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="rounded overflow-hidden">
-                        <div class="position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="img/img13.jpg" alt="">
-                            <div class="portfolio-overlay">
-                                <a class="btn btn-square btn-outline-light mx-1" href="img/img13.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
-                            </div>
-                        </div>
-                        <div class="border border-5 border-light border-top-0 p-4">
-                            <p class="text-primary fw-medium mb-2">General Carpentry</p>
-                            <h5 class="lh-base mb-0">Foldable Chairs</a>
-                        </div>
+                    <div class="border border-5 border-light border-top-0 p-4">
+                        <p class="text-primary fw-medium mb-2">General Carpentry</p>
+                        <h5 class="lh-base mb-0">Kitchen Fittings</a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 portfolio-item first wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="rounded overflow-hidden">
-                        <div class="position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="img/img6.jpg" alt="">
-                            <div class="portfolio-overlay">
-                                <a class="btn btn-square btn-outline-light mx-1" href="img/img6.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
-                            </div>
-                        </div>
-                        <div class="border border-5 border-light border-top-0 p-4">
-                            <p class="text-primary fw-medium mb-2">Wooden Houses Construction</p>
-                            <h5 class="lh-base mb-0">Staff Meeting Room, Taita</a>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item first wow fadeInUp" data-wow-delay="0.5s">
+                <div class="rounded overflow-hidden">
+                    <div class="position-relative overflow-hidden">
+                        <img class="img-fluid w-100" src="img/img7.jpg" alt="">
+                        <div class="portfolio-overlay">
+                            <a class="btn btn-square btn-outline-light mx-1" href="img/img7.jpg"
+                                data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
                         </div>
                     </div>
+                    <div class="border border-5 border-light border-top-0 p-4">
+                        <p class="text-primary fw-medium mb-2">Wooden Houses Construction</p>
+                        <h5 class="lh-base mb-0">Holiday Home, Naivasha</a>
+                    </div>
                 </div>
-                <div class="col-lg-4 col-md-6 portfolio-item second wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="rounded overflow-hidden">
-                        <div class="position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="img/img12.jpg" alt="">
-                            <div class="portfolio-overlay">
-                                <a class="btn btn-square btn-outline-light mx-1" href="img/img12.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
-                            </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item second wow fadeInUp" data-wow-delay="0.1s">
+                <div class="rounded overflow-hidden">
+                    <div class="position-relative overflow-hidden">
+                        <img class="img-fluid w-100" src="img/img13.jpg" alt="">
+                        <div class="portfolio-overlay">
+                            <a class="btn btn-square btn-outline-light mx-1" href="img/img13.jpg"
+                                data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
                         </div>
-                        <div class="border border-5 border-light border-top-0 p-4">
-                            <p class="text-primary fw-medium mb-2">General Carpentry</p>
-                            <h5 class="lh-base mb-0">Garden Benches</a>
+                    </div>
+                    <div class="border border-5 border-light border-top-0 p-4">
+                        <p class="text-primary fw-medium mb-2">General Carpentry</p>
+                        <h5 class="lh-base mb-0">Foldable Chairs</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item first wow fadeInUp" data-wow-delay="0.3s">
+                <div class="rounded overflow-hidden">
+                    <div class="position-relative overflow-hidden">
+                        <img class="img-fluid w-100" src="img/img6.jpg" alt="">
+                        <div class="portfolio-overlay">
+                            <a class="btn btn-square btn-outline-light mx-1" href="img/img6.jpg"
+                                data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
                         </div>
+                    </div>
+                    <div class="border border-5 border-light border-top-0 p-4">
+                        <p class="text-primary fw-medium mb-2">Wooden Houses Construction</p>
+                        <h5 class="lh-base mb-0">Staff Meeting Room, Taita</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item second wow fadeInUp" data-wow-delay="0.5s">
+                <div class="rounded overflow-hidden">
+                    <div class="position-relative overflow-hidden">
+                        <img class="img-fluid w-100" src="img/img12.jpg" alt="">
+                        <div class="portfolio-overlay">
+                            <a class="btn btn-square btn-outline-light mx-1" href="img/img12.jpg"
+                                data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
+                        </div>
+                    </div>
+                    <div class="border border-5 border-light border-top-0 p-4">
+                        <p class="text-primary fw-medium mb-2">General Carpentry</p>
+                        <h5 class="lh-base mb-0">Garden Benches</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- Projects End -->
+</div>
+<!-- Projects End -->
 
 
-    <!-- Quote Start
+<!-- Quote Start
     <div class="container-fluid bg-light overflow-hidden my-5 px-lg-0">
         <div class="container quote px-lg-0">
             <div class="row g-0 mx-lg-0">
@@ -535,5 +570,58 @@
             </div>
         </div>
     </div>-->
-    <!-- Testimonial End -->
+<!-- Testimonial End -->
+<!-- Floating Video Ad Start -->
+<div id="floating-ad">
+    <video id="ad-video" width="250" controls autoplay playsinline>
+        <source src="video/woodenhousekenya.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <button id="close-ad">&times;</button>
+</div>
+
+<style>
+    #floating-ad {
+        position: fixed;
+        bottom: 20px;
+        left: 20px;
+        z-index: 9999;
+        background: #fff;
+        padding: 8px;
+        border: 2px solid #fff;
+        border-radius: 10px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        display: inline-block;
+    }
+
+    #floating-ad video {
+        max-width: 250px;
+        height: auto;
+        border-radius: 8px;
+        display: block;
+    }
+
+    #floating-ad #close-ad {
+        position: absolute;
+        top: -8px;
+        right: -8px;
+        background: red;
+        color: #fff;
+        border: none;
+        font-size: 18px;
+        cursor: pointer;
+        line-height: 1;
+        padding: 4px 8px;
+        border-radius: 50%;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    }
+</style>
+
+<script>
+    document.getElementById("close-ad").addEventListener("click", function () {
+        document.getElementById("floating-ad").style.display = "none";
+    });
+</script>
+<!-- Floating Video Ad End -->
+
 <?php include('footer.php'); ?>

@@ -8,10 +8,10 @@
                     <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+254716111187 / +254789104438</p>
                     <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@woodenhouseskenya.com</p>
                     <div class="d-flex pt-2">
-                        <a class="btn btn-outline-light btn-social" href="#"><i class="fab fa-twitter"></i></a>
-                        <a class="btn btn-outline-light btn-social" href="https://www.facebook.com/share/13iFrsAGiH/"><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-outline-light btn-social" href="https://www.x.com/wooden_kenya/"><i class="fab fa-twitter"></i></a>
+                        <a class="btn btn-outline-light btn-social" href="https://www.facebook.com/mitchiehousing/"><i class="fab fa-facebook-f"></i></a>
                         <a class="btn btn-outline-light btn-social" href="#"><i class="fab fa-youtube"></i></a>
-                        <a class="btn btn-outline-light btn-social" href="https://www.instagram.com/woodenhouseskenya/profilecard/?igsh=MTZobjg1N250ZTNkaw=="><i class="fab fa-instagram"></i></a>
+                        <a class="btn btn-outline-light btn-social" href="https://www.instagram.com/woodenhouseskenya/?hl=en"><i class="fab fa-instagram"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
